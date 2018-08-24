@@ -29,3 +29,4 @@ the same author give [patchs](http://en.miui.com/forum.php?mod=viewthread&tid=15
 2. Follow the readme inside
 > In order to let the EC read new firmware, I use 0% battery shutdown, the patch works after boot.
 
+see also [xiaomi-notebook-pro-bios-patcher](https://github.com/saltukkos/xiaomi-notebook-pro-bios-patcher) to custom fan speed curve
