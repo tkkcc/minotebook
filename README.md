@@ -25,4 +25,9 @@ _Cyb give [patchs](http://en.miui.com/forum.php?mod=viewthread&tid=1551743&page=
 > In order to let the EC read new firmware, I use 0% battery shutdown, the patch works after boot.
 
 See also [xiaomi-notebook-pro-bios-patcher](https://github.com/saltukkos/xiaomi-notebook-pro-bios-patcher) for custom fan speed curve.  
-Go to the original page for any issue, all sources linked.
+See also [Mi-Notebook-Pro-Mods](https://github.com/Cr0wTom/Mi-Notebook-Pro-Mods) for new BIOS (805).  
+All sources linked.  
+
+## TLP
+
+[TLP](https://wiki.archlinux.org/index.php/TLP) is for better battery life on linux. I recommend trying my tlp [config](https://github.com/tkkcc/dot/blob/master/etc/default/tlp) without any performance loss. I can achieve more than 10 hours of 1080p video playing with mpv. Use [powerstat](https://aur.archlinux.org/packages/powerstat-git/) to measure temporal power consumption.
