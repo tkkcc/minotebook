@@ -30,4 +30,4 @@ All sources linked.
 
 ## TLP
 
-[TLP](https://wiki.archlinux.org/index.php/TLP) is for better battery life on linux. I recommend trying my tlp [config](https://github.com/tkkcc/dot/blob/master/etc/default/tlp) without any performance loss. I can achieve more than 10 hours of 1080p video playing with mpv. Use [powerstat](https://aur.archlinux.org/packages/powerstat-git/) to measure temporal power consumption.
+[TLP](https://wiki.archlinux.org/index.php/TLP) is a tool for better battery life on linux. I recommend trying my tlp [config](https://github.com/tkkcc/dot/blob/master/etc/default/tlp) without any performance loss. I can achieve more than 10 hours of 1080p video playing with mpv. Use [powerstat](https://aur.archlinux.org/packages/powerstat-git/) to measure temporal power consumption.
